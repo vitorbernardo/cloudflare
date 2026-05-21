@@ -1,1 +1,1 @@
-# cloudflare
+# CloudFlare Worker Redirect Setup
